@@ -2,10 +2,6 @@
 
 This repository hosts the source code for Foodzy, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
-## Demo
-
-- User Panel: [https://cloud-kitchen-system-s9f2.vercel.app/](https://cloud-kitchen-system-s9f2.vercel.app/)
-- Admin Panel: [https://cloud-kitchen-system-admin.vercel.app/](https://cloud-kitchen-system-admin.vercel.app/)
 
 ## Features
 

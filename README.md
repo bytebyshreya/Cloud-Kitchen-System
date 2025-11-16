@@ -2,10 +2,6 @@
 
 This repository hosts the source code for Foodzy, a dynamic food ordering website built with the MERN Stack. It offers a user-friendly platform for seamless online food ordering.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> e324f891c88806c6236c9c27d1329cab28701021
 ## Features
 
 - User Panel
